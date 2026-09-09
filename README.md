@@ -32,7 +32,7 @@ This work was published as:
 
 | Folder | Contents |
 |---|---|
-| `paper/` | Full conference paper draft (the version that became the published paper) |
+| `paper/` | Published paper (PDF to be added) |
 | `poster/` | STEM poster (48×36) and its abstract |
 | `presentations/` | Oral presentation decks, presentation notes, and the poster speech script |
 | `data/` | Aggregated grade distributions and DFWI tracking (no student-level data), plus the Fall 2022 final survey instruments for COMS 1013, 2203, and 2213 |
@@ -41,3 +41,4 @@ This work was published as:
 
 - **Musfikur Rahaman** — Arkansas Tech University (now PhD researcher, UA Little Rock)
 - Dr. Robin Ghosh, Dr. Tolga Ensari, Becky Cunningham — Arkansas Tech University, Department of Engineering and Computing Sciences
+
